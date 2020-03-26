@@ -1,0 +1,202 @@
+HOT index for countries based on https://www.worldometers.info/coronavirus/:
+(Healthcare On Top = total cases / total deaths)
+1. Estonia: 538.0
+2. Iceland: 401.0
+3. Singapore: 341.5
+4. Saudi Arabia: 337.3
+5. Israel: 336.6
+6. Chile: 326.5
+7. Armenia: 290.0
+8. Russia: 280.0
+9. Thailand: 261.2
+10. Norway: 239.0
+11. Australia: 215.8
+12. Czechia: 213.9
+13. Finland: 191.6
+14. Moldova: 177.0
+15. Germany: 166.6
+16. UAE: 166.5
+17. Croatia: 165.0
+18. Luxembourg: 161.4
+19. Austria: 139.7
+20. Pakistan: 131.0
+21. Taiwan: 126.0
+22. Costa Rica: 115.5
+23. Bahrain: 114.5
+24. Hong Kong: 113.2
+25. Kazakhstan: 111.0
+26. Canada: 100.3
+27. Ireland: 95.7
+28. Slovenia: 93.7
+29. Malaysia: 88.3
+30. Bulgaria: 88.0
+31. Palestine: 84.0
+32. Colombia: 81.8
+33. Mexico: 79.2
+34. Poland: 76.3
+35. Cameroon: 75.0
+36. Lithuania: 74.8
+37. Andorra: 74.7
+38. Guadeloupe: 73.0
+39. Diamond Princess: 71.2
+40. S. Korea: 70.5
+41. USA: 69.8
+42. Panama: 69.8
+43. Montenegro: 69.0
+44. North Macedonia: 67.0
+45. Cuba: 67.0
+46. Channel Islands: 66.0
+47. Martinique: 66.0
+48. Serbia: 65.3
+49. Nigeria: 65.0
+50. Trinidad and Tobago: 65.0
+51. Peru: 64.4
+52. Bosnia and Herzegovina: 63.0
+53. Argentina: 62.8
+54. Switzerland: 61.8
+55. Lebanon: 61.3
+56. Portugal: 59.1
+57. Honduras: 52.0
+58. Dominican Republic: 48.8
+59. Cyprus: 48.7
+60. Turkey: 48.4
+61. Romania: 46.8
+62. Denmark: 45.8
+63. India: 45.1
+64. Azerbaijan: 40.7
+65. Ecuador: 40.6
+66. Mauritius: 40.5
+67. Sweden: 40.0
+68. Ukraine: 39.2
+69. Brazil: 37.9
+70. Greece: 34.3
+71. Tunisia: 33.3
+72. Ghana: 33.0
+73. Kenya: 31.0
+74. Japan: 29.8
+75. Albania: 29.0
+76. Belgium: 28.3
+77. Morocco: 27.5
+78. Hungary: 26.1
+79. Jamaica: 26.0
+80. China: 24.7
+81. Guatemala: 24.0
+82. Afghanistan: 23.5
+83. Total:: 22.2
+84. Burkina Faso: 21.7
+85. Egypt: 20.6
+86. UK: 20.2
+87. France: 17.2
+88. Netherlands: 17.1
+89. DRC: 17.0
+90. Philippines: 15.7
+91. Algeria: 14.7
+92. Paraguay: 13.7
+93. Spain: 13.6
+94. Iran: 13.2
+95. Indonesia: 11.4
+96. Iraq: 10.6
+97. San Marino: 9.9
+98. Italy: 9.8
+99. Bangladesh: 8.8
+100. Cayman Islands: 8.0
+101. Gabon: 7.0
+102. Niger: 7.0
+103. Curaçao: 6.0
+104. Guyana: 5.0
+105. Cabo Verde: 4.0
+106. Gambia: 3.0
+107. Sudan: 3.0
+108. Zimbabwe: 3.0
+109. South Africa: 0.0
+110. Qatar: 0.0
+111. New Zealand: 0.0
+112. Latvia: 0.0
+113. Slovakia: 0.0
+114. Uruguay: 0.0
+115. Jordan: 0.0
+116. Kuwait: 0.0
+117. Vietnam: 0.0
+118. Faeroe Islands: 0.0
+119. Réunion: 0.0
+120. Malta: 0.0
+121. Brunei : 0.0
+122. Oman: 0.0
+123. Sri Lanka: 0.0
+124. Venezuela: 0.0
+125. Senegal: 0.0
+126. Cambodia: 0.0
+127. Ivory Coast: 0.0
+128. Belarus: 0.0
+129. Georgia: 0.0
+130. Uzbekistan: 0.0
+131. Liechtenstein: 0.0
+132. Kyrgyzstan: 0.0
+133. Bolivia: 0.0
+134. Rwanda: 0.0
+135. Mayotte: 0.0
+136. Monaco: 0.0
+137. Macao: 0.0
+138. French Polynesia: 0.0
+139. French Guiana: 0.0
+140. Gibraltar: 0.0
+141. Isle of Man: 0.0
+142. Madagascar: 0.0
+143. Togo: 0.0
+144. Aruba: 0.0
+145. Barbados: 0.0
+146. Zambia: 0.0
+147. New Caledonia: 0.0
+148. Uganda: 0.0
+149. El Salvador: 0.0
+150. Maldives: 0.0
+151. Tanzania: 0.0
+152. Equatorial Guinea: 0.0
+153. Ethiopia: 0.0
+154. Djibouti: 0.0
+155. Dominica: 0.0
+156. Mongolia: 0.0
+157. Saint Martin: 0.0
+158. Haiti: 0.0
+159. Namibia: 0.0
+160. Suriname: 0.0
+161. Bermuda: 0.0
+162. Mozambique: 0.0
+163. Seychelles: 0.0
+164. Benin: 0.0
+165. Greenland: 0.0
+166. Laos: 0.0
+167. Bahamas: 0.0
+168. Fiji: 0.0
+169. Syria: 0.0
+170. Angola: 0.0
+171. Congo: 0.0
+172. Eritrea: 0.0
+173. Guinea: 0.0
+174. Vatican City: 0.0
+175. Mali: 0.0
+176. Eswatini: 0.0
+177. Nepal: 0.0
+178. Antigua and Barbuda: 0.0
+179. CAR: 0.0
+180. Chad: 0.0
+181. Liberia: 0.0
+182. Mauritania: 0.0
+183. Myanmar: 0.0
+184. St. Barth: 0.0
+185. Saint Lucia: 0.0
+186. Sint Maarten: 0.0
+187. Belize: 0.0
+188. Bhutan: 0.0
+189. British Virgin Islands: 0.0
+190. Guinea-Bissau: 0.0
+191. Montserrat: 0.0
+192. Nicaragua: 0.0
+193. Saint Kitts and Nevis: 0.0
+194. Somalia: 0.0
+195. Turks and Caicos: 0.0
+196. Grenada: 0.0
+197. Libya: 0.0
+198. Papua New Guinea: 0.0
+199. St. Vincent Grenadines: 0.0
+200. Timor-Leste: 0.0
