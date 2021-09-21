@@ -1,4 +1,4 @@
 coronav
 ---
 
-Parsing [Worldometers webpage](worldometers.info) for coronavirus data (WIP).
+Parsing [Worldometers webpage](worldometers.info) for coronavirus data (shelved).
